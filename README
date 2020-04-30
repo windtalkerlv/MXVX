@@ -1,0 +1,23 @@
+MXVX extends viewing experience
+
+Goal
+
+MXVX's goal is as its name implies: to extend the viewing experience on tvOS
+
+Product requirement (ongoing)
+
+- Provide the widest codec compatibilities using libVLC and/or libMPV
+
+- Incorporates better content discovery of local media and available online streaming services
+
+- Provide Featurette when available
+
+- Thumbnails when seeking
+
+- Subtitle compatibilities
+
+- Provide technical details of local resources
+
+
+
+
